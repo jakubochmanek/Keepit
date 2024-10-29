@@ -21,5 +21,5 @@ node jakub-ochmanek.js
 4. Enter a URL when prompted.
 
 ## Example Output
-Enter the URL: https://example.com](https://www.keepit.com/pricing/ 
+Enter the URL: https://www.keepit.com/pricing/
 Maximum elements in unordered list: 3
